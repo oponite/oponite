@@ -7,3 +7,7 @@ I like problems where the software is messy, information is lacking clarity, and
 At other times, [it means building an entirely new programming language because I don't like how existing software represents uncertainty](https://github.com/oponite/lana). 
 
 My domain coverage: **computer science (formal methods, compilers), financial markets, information theory, decision theory, systems architecture**.
+
+## Contact
+
+For research, collaboration, business inquiries, or general correspondence, email [vijayneelakantan@outlook.com](mailto:vijayneelakantan@outlook.com).
