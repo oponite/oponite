@@ -2,7 +2,7 @@
 
 I work at the boundaries of software — where it meets hardware, and where information is incomplete, ambiguous, or uncertain.
  
-By day, I’m a technical business analyst in investment management, working end-to-end across investment management systems (eFront, DTCC CTM). Outside that, I research and build around one question:
+By day, I’m a technical consultant with experience in investment management, working end-to-end across investment management systems (eFront, DTCC CTM). Outside that, I research and build around one question:
  
 **How should a program define uncertainty, and represent it accordingly?**
 
